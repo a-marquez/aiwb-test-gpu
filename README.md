@@ -1,9 +1,3 @@
-# Project Name
-This project is ________. (Describe the main goals of the project. Limit to 1-2 sentences)
+# aiwb-test-gpu
 
-## Description
-Optional section to provide a more detailed overview of the project.
-
-## Getting Started
-Optional section to summarize important steps and how to use the project & apps in the project
-
+Test AIWB project using the base environment [Python with CUDA 12.2](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/ai-workbench/containers/python-cuda122).
